@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506246173 source:c:\users\liuchaojie1\onedrive\poj\1001求高精度幂\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

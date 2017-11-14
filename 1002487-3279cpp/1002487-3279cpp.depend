@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1506251768 source:c:\users\liuchaojie1\onedrive\poj\1002487-3279cpp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<map>
+	<iostream>
+
